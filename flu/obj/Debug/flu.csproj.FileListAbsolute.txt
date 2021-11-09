@@ -1,0 +1,6 @@
+C:\Users\Mihail\source\repos\ISMPrakt03\flu\bin\Debug\flu.exe.config
+C:\Users\Mihail\source\repos\ISMPrakt03\flu\bin\Debug\flu.exe
+C:\Users\Mihail\source\repos\ISMPrakt03\flu\bin\Debug\flu.pdb
+C:\Users\Mihail\source\repos\ISMPrakt03\flu\obj\Debug\flu.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\source\repos\ISMPrakt03\flu\obj\Debug\flu.exe
+C:\Users\Mihail\source\repos\ISMPrakt03\flu\obj\Debug\flu.pdb

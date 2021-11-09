@@ -1,0 +1,7 @@
+C:\Users\Mihail\source\repos\ISMPrakt03\ForConsole1\obj\Debug\ForConsole1.csproj.AssemblyReference.cache
+C:\Users\Mihail\source\repos\ISMPrakt03\ForConsole1\obj\Debug\ForConsole1.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\source\repos\ISMPrakt03\ForConsole1\bin\Debug\ForConsole1.exe.config
+C:\Users\Mihail\source\repos\ISMPrakt03\ForConsole1\bin\Debug\ForConsole1.exe
+C:\Users\Mihail\source\repos\ISMPrakt03\ForConsole1\bin\Debug\ForConsole1.pdb
+C:\Users\Mihail\source\repos\ISMPrakt03\ForConsole1\obj\Debug\ForConsole1.exe
+C:\Users\Mihail\source\repos\ISMPrakt03\ForConsole1\obj\Debug\ForConsole1.pdb

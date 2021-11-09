@@ -1,0 +1,7 @@
+C:\Users\Mihail\source\repos\ISMPrakt03\AdditionalTask\bin\Debug\AdditionalTask.exe.config
+C:\Users\Mihail\source\repos\ISMPrakt03\AdditionalTask\bin\Debug\AdditionalTask.exe
+C:\Users\Mihail\source\repos\ISMPrakt03\AdditionalTask\bin\Debug\AdditionalTask.pdb
+C:\Users\Mihail\source\repos\ISMPrakt03\AdditionalTask\obj\Debug\AdditionalTask.csproj.AssemblyReference.cache
+C:\Users\Mihail\source\repos\ISMPrakt03\AdditionalTask\obj\Debug\AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\source\repos\ISMPrakt03\AdditionalTask\obj\Debug\AdditionalTask.exe
+C:\Users\Mihail\source\repos\ISMPrakt03\AdditionalTask\obj\Debug\AdditionalTask.pdb
