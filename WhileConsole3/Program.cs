@@ -10,7 +10,7 @@ namespace WhileConsole3
     {
         static void Main(string[] args)
         {
-            double P,S,b=10,d=0,g=0,n=0;
+            double P,b=10,g=0,n=0;
             Console.Write("Введите P = ");
             P = int.Parse(Console.ReadLine());
             while (true)

@@ -8,18 +8,27 @@ namespace ForConsole2
 {
     class Program
     {
+        static double myR(int n)
+        {
+            double d = 0;
+            for (int i = 1; i <= n; i++)
+                d += 1.0 / i;
+
+            return d;
+        }
+
         static void Main(string[] args)
         {
-            double n,k = 0;
+            double k;
+            int n;
             Console.Write("Введите число n = ");
-            while (!double.TryParse(Console.ReadLine(), out n))
+            while (!int.TryParse(Console.ReadLine(), out n))
             {
-                Console.WriteLine("Ошибка ввода, введите число n");
+                Console.WriteLine("Ошибка ввода, введите целое число n");
             }
             if (n > 0)
             {
-                for (int i = 1; i <= n; i++)
-                    k += 1.0 / i;
+                k = myR(n);
                 Console.WriteLine(k);
             }
             else Console.WriteLine("Ошибка,число n должно быть больше 0, програма завершена");

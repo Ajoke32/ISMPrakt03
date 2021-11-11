@@ -8,31 +8,36 @@ namespace ForConsole1
 {
     class Program
     {
-        
-        static void Main(string[] args)
+        static double myK(int n, int k)
         {
-            int a, b, dob = 1;
-            Console.Write("Введите a = ");
-            while (!int.TryParse(Console.ReadLine(),out a))
-            {
-                Console.WriteLine("Ошибка ввода, введите целое число а");
-            }
-            Console.Write("Введите b = ");
-            while (!int.TryParse(Console.ReadLine(),out b))
-            {
-                Console.WriteLine("Ошибка ввода,введите целое число b");
-            }
-            if (b > a)
-            {
-
-                for (int i = a; i <= b; i++)
+            double dob = 1;
+                for (int i = n; i <= k; i++)
                 {
                     dob *= i;
                 }
-                Console.WriteLine(dob);
+            
+            return dob;
+        }
+        static void Main(string[] args)
+        {
+            int a, b;
+            double res;
+            Console.Write("Введите а = ");
+            while (!int.TryParse(Console.ReadLine(), out a))
+            {
+                Console.WriteLine("Ошибка ввода, введите целое число a");
             }
-            else Console.WriteLine("Ошибка, не верно введены исходные данные(a>b),программа завершена");
-
+            Console.Write("Введите b = ");
+            while (!int.TryParse(Console.ReadLine(), out b))
+            {
+                Console.WriteLine("Ошибка ввода, введите целое число b");
+            }
+            if (a < b)
+            {
+                res = myK(a, b);
+                Console.WriteLine(res);
+            }
+            else Console.WriteLine("Ошибка,не верно введены исходные данные(A>B),программа завершена");
         }
     }
 }

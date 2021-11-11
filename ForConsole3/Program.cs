@@ -8,9 +8,10 @@ namespace ForConsole3
 {
     class Program
     {
+
         static void Main(string[] args)
         {
-            double a,dob=0,k=0,j;
+            double a,j;
             int n;
             Console.Write("Введите степень n = ");
             while (!int.TryParse(Console.ReadLine(), out n))

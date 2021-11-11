@@ -8,14 +8,9 @@ namespace WhileConsole1
 {
     class Program
     {
-        static int myN(int n,int k)
-        {
-            return k + n;
-        }
-
         static void Main(string[] args)
         {
-            double l=0,k,h=0,b=0;
+            double l=0,h=0,b=0;
             int n;
             Console.Write("Введите число n = ");
             while (!int.TryParse(Console.ReadLine(), out n))

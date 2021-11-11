@@ -40,7 +40,7 @@ namespace AdditionalTask
             Console.WriteLine("\n");
             Console.WriteLine("Лорд Брунер");
             Console.WriteLine("4/Pi примерно = 1,27324");
-            double kk,bb,a2 =2,b2=3,c2=5,m4,f;
+            double kk,bb,b2=3,c2=5;
             while (m < 5)
             {
                 m++;
@@ -51,7 +51,7 @@ namespace AdditionalTask
                
             }
             Console.WriteLine("\n");
-            double a1=1, b1=3,v,vv, c1, g1=1;
+            double a1=1, b1=3, g1=1;
             Console.WriteLine("Г.Лейбниц");
             Console.WriteLine("Pi/4 = 45 градусов,примерно = 0,785398");
             while (p<5)
